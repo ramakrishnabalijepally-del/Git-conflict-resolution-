@@ -1,1 +1,1 @@
-# Git-conflict-resolution-
+This is A first developer A story
